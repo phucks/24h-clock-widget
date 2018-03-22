@@ -5,10 +5,12 @@
 
 Made with Node and Electron.
 
+This is a litte App which will display a 24h Clock with different timezones.
+
 How to run:
 
 ``` bash
 npm install
-tsc *.ts # Compiles all typescript files to JavaScript
+tsc *.ts # Compiles all TypeScript files to JavaScript
 npm start
 ```
