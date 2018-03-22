@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Because we are using TypeScript, we do not want to commit the compiled JavaScript files
+*.js
