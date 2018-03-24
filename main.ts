@@ -11,7 +11,7 @@ function createWindow() {
         toolbar: false
     })
     win.loadURL(url.format({
-        pathname: path.join(__dirname, "main.html"),
+        pathname: path.join(__dirname, "main_window/main_window.html"),
         protocol: "file:",
         slashes: true
     }))
