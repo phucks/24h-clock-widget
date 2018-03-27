@@ -4,6 +4,7 @@
   "description": "24h Clock Desktop Widget",
   "main": "main.js",
   "scripts": {
+    "compile": "tsc -p .",
     "start": "electron ."
   },
   "author": "",

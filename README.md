@@ -11,6 +11,6 @@ How to run:
 
 ``` bash
 npm install
-tsc *.ts # Compiles all TypeScript files to JavaScript
+npm run compile # Compiles all TypeScript files to JavaScript
 npm start
 ```
